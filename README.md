@@ -1,0 +1,3 @@
+Using the basic web server you implemented in Module Seven, use the Python ssl library to secure the sockets that you are using with TLS/SSL. The API documentation for the ssl library goes over how to create a secure socket here: https://docs.python.org/3/library/ssl.html#socket-creation
+After successfully implementing the secured web server, you will create a YouTube video that walks through the code you created (particularly the code used to secure the socket), a working demo of the secure server, and a Wireshark packet capture demonstrating that the code does in fact secure the packets being transmitted between client and server.
+# Securing-a-basic-web-server-with-TLS-SSL
